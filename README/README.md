@@ -53,6 +53,7 @@ Full credit and recognition for the original asset creation belongs to Smug.
 
 - If you need support, have questions, or want to report a bug, you can contact me through the following channels:
     - 💬 Discord: [https://discord.gg/SKA](https://discord.gg/4FWU2K5nPF)
+    
 📌 Note:
 - Support is handled via the Discord server.
 - Direct messages are not used for support.
