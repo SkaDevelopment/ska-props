@@ -6,10 +6,37 @@ This repository contains props originally created by Smug, modified by SKA to ad
 - These props are **free** and may only be used for **non-commercial purposes**.
 - You **cannot** include them in paid resources or sell them.
 
-## 📥 How to Use
-1. Download the props from this repository.
-2. Place them in your FiveM resource folder.
-3. Use them in your scripts/jobs as needed.
+## 🛠️ Installation
+
+1. Add this resource into your `resources/` folder.
+
+    Place the resource folder inside your server’s:
+
+    ```
+    resources/
+    ```
+
+    Example:
+
+    ```
+    resources/[ska]/ska-props
+    ```
+
+2. Ensure it in your `server.cfg`.
+
+    Add the following line to your server.cfg:
+
+    ```
+    ensure ska-props
+    ```
+
+    or:
+    
+    ```
+    ensure [ska]
+    ```
+
+3. Restart Your Server
 
 ## 🔗 Credits
 Original Author: Smug - https://forum.cfx.re/t/sg-solarpanels-props/5263975 - https://discord.gg/94mmqNHFum
@@ -19,16 +46,14 @@ Full credit and recognition for the original asset creation belongs to Smug.
 
 ## ℹ Notes
 - Modifications made: Added collision to the props.
-- For any issues or questions, you can reach me via Discord: https://discord.gg/4FWU2K5nPF
 - Please respect the original license of the props.
 
 ## 📬 Contact & Support
 
 - If you need support, have questions, or want to report a bug, you can contact me through the following channels:
-    - Email: docteurskander@gmail.com
-    - Discord Server: https://discord.gg/4FWU2K5nPF
+    - 💬 Discord: [https://discord.gg/SKA](https://discord.gg/4FWU2K5nPF)
 📌 Note:
-- Support is handled via the Discord server and responses are typically faster than email.
+- Support is handled via the Discord server.
 - Direct messages are not used for support.
 - Support is provided only to verified buyers.
 - Please include your Tebex order ID when requesting support to ensure a quicker response.
